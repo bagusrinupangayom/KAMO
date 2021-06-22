@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+
+p {
+    font-size: 18px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+/* Navbar */
+nav {
+    background-color: #c62d28;
+    color: white;
+}
+
+
+section {
+    padding: 13rem 0;
+}
+
+/* Header */
+.header {
+    background-color: #c62d28;
+    color: white;
+
+}
+
+
+
+/* Konten1 */
+.konten1 h2 {
+    color: #c62d28;
+}
+
+
+/* Konten2 */
+.konten2 {
+    background-color: #c62d28;
+    color: white;
+    padding: 15rem 0;
+}
+
+.konten2 a {
+    background-color: white;
+    color: #c62d28;
+    border-radius: 34px;
+}
+
+.konten2 a:hover {
+    background-color: #dddddd;
+}
+
+
+/* Konten3 */
+.konten3 h2 {
+    color: #c62d28;
+}
+
+
+/* Konten4 */
+.konten4 {
+    background-color: #c62d28;
+    color: white;
+}
+
+
+/* Konten5 */
+.konten5 h2 {
+    color: #c62d28;
+}
+
+.konten5 h4 {
+    color: #c62d28;
+}
+
+
+/* Konten6 */
+.konten6 {
+    background-color: #c62d28;
+    color: white;
+}
+
+
+/* Konten7 */
+.konten7 h2 {
+    color: #c62d28;
+}
+
+
+/* Konten8 */
+.konten8 {
+    background-color: #c62d28;
+    color: white;
+    padding: 15rem 0;
+}
+
+.konten8 a {
+    background-color: white;
+    color: #c62d28;
+    border-radius: 34px;
+}
+
+.konten8 a:hover {
+    background-color: #dddddd;
+}
+
+
+/* Konten9*/
+.konten9 h2 {
+    color: #c62d28;
+}
+
+.konten9 h5 {
+    color: #c62d28;
+}
+
+.konten9 a {
+    color: black;
+    text-decoration: underline;
+}
+
+
+/* Footer */
+footer {
+    background-color: #c62d28;
+    padding: 7px;
+}
+
+footer p {
+    color: white;
+}
