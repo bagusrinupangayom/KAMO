@@ -43,7 +43,7 @@ section {
 .konten2 {
     background-color: #c62d28;
     color: white;
-    padding: 15rem 0;
+    padding: 20rem 0;
 }
 
 .konten2 a {
@@ -60,6 +60,14 @@ section {
 /* Konten3 */
 .konten3 h2 {
     color: #c62d28;
+}
+
+.konten3 h5 {
+    color: #c62d28;
+}
+
+.konten3 .col {
+    margin-bottom: 4rem;
 }
 
 
@@ -79,11 +87,19 @@ section {
     color: #c62d28;
 }
 
+.konten5 .col {
+    margin-bottom: 4rem;
+}
+
 
 /* Konten6 */
 .konten6 {
     background-color: #c62d28;
     color: white;
+}
+
+.konten6 .col {
+    margin-bottom: 4rem;
 }
 
 
@@ -97,7 +113,7 @@ section {
 .konten8 {
     background-color: #c62d28;
     color: white;
-    padding: 15rem 0;
+    padding: 20rem 0;
 }
 
 .konten8 a {
